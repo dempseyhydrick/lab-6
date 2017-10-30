@@ -1,0 +1,13 @@
+.background td { padding: 0;          }
+.lava          { background-image: url(https://orig00.deviantart.net/517a/f/2017/156/7/6/animated_lava_floor_by_hoover1979-dbbm4g0.gif); }
+.wall          { background: #e6e6e6;   }
+.floater       { background: green;   }
+.actor         { position: absolute;  }
+.player        { background: black;   }
+.background    { background: #00bfff;
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.game          { position: relative;
+                 max-height: 450px;
+                 max-width: 600px;
+                 overflow: hidden;    }
